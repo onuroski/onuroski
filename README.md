@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">Virtual Reality Developer</h3>
 
-- 🔭 I’m currently working on **VR projects**
+- 🔭 I’m currently working on **VR and C++ Game projects**
 
-- 🌱 I’m currently learning **VR Features and Unreal Engine Game Development**
+- 🌱 I’m currently learning **VR Features and Unreal Engine C++ Game Development**
 
-- 👨‍💻 All of my projects are available at [https://www.simuleverse.com/about-9](https://www.simuleverse.com/about-9)
+- 👨‍💻 Some my projects are available at [https://www.simuleverse.com/about-9](https://www.simuleverse.com/about-9)
 
-- 📝 I regularly write articles on [https://www.simuleverse.com/blog](https://www.simuleverse.com/blog)
+- 📝 I sometimes write articles on [https://www.simuleverse.com/blog](https://www.simuleverse.com/blog)
 
 - 💬 Ask me about **VR & UE4**
 
-- 📫 How to reach me **onuroski614@gmail.com**
+- 📫 How to reach me **onursagaltci@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
