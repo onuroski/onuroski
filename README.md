@@ -7,8 +7,6 @@
 
 - 👨‍💻 Some my projects are available at [https://www.simuleverse.com/about-9](https://www.simuleverse.com/about-9)
 
-- 📝 I sometimes write articles on [https://www.simuleverse.com/blog](https://www.simuleverse.com/blog)
-
 - 💬 Ask me about **VR & UE4**
 
 - 📫 How to reach me **onursagaltci@gmail.com**
