@@ -7,7 +7,7 @@
 
 - 👨‍💻 Some my projects are available at [https://www.simuleverse.com](https://www.simuleverse.com)
 
-- 💬 Ask me about **VR & UE4**
+- 💬 Ask me about **VR & UE4/UE5**
 
 - 📫 How to reach me **onursagaltci@gmail.com**
 
