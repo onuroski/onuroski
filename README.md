@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **VR Features and Unreal Engine C++ Game Development**
 
-- 👨‍💻 Some my projects are available at [https://www.simuleverse.com](https://www.simuleverse.com)
+- 👨‍💻 Some of my projects are available at [https://www.simuleverse.com](https://www.simuleverse.com)
 
 - 💬 Ask me about **VR & UE4/UE5**
 
